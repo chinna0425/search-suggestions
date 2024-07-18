@@ -1,0 +1,14 @@
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+}
+.searchlogo {
+  height: 20px;
+  width: 20px;
+}
